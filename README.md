@@ -202,18 +202,6 @@ Usage: checkUrl [options]
 -->
 
 <!-- ender -->
-# Donation
-## AliPay
-![donation-AliPay](/md/wc.png)
-## Wechat Pay
-![donation-Wechat](/md/zfb.png)
-## Paypal
-Donate money by [paypal](https://www.paypal.me/pwned2019) to my account **miracletalent@gmail.com**.
-## BTC Pay
-![donation-BTC](/md/BTC.png)
-## BCH Pay
-![donation-BCH](/md/BCH.jpg)
-
 
 # Thanks to
 -  [![Follow on Twitter](https://img.shields.io/twitter/follow/hanerkui.svg?style=social&label=Follow)](https://twitter.com/intent/follow?screen_name=hanerkui) github:[hanerkui](https://github.com/hanerkui)
