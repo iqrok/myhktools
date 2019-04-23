@@ -200,17 +200,7 @@ Node checkUrl.js -u http://192.168.10.216:8082/s2-032/ --struts2 045
 -->
 
 <!-- ender -->
-# Donation
-## AliPay
-![donation-AliPay](/md/wc.png)
-## Wechat Pay
-![donation-Wechat](/md/zfb.png)
-## Paypal
-Donate money by [paypal](https://www.paypal.me/pwned2019) to my account **miracletalent@gmail.com**.
-## BTC Pay
-![donation-BTC](/md/BTC.png)
-## BCH Pay
-![donation-BCH](/md/BCH.jpg)
+
 
 
 # Thanks to
